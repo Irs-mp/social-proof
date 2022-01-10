@@ -35,7 +35,7 @@ Users should be able to:
 
 ## Link
 
-- [Live](https://your-live-site-url.com) 👀
+- [Live](https://irs-mp.github.io/social-proof/) 👀
 
 ## Built with
 
